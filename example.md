@@ -2,5 +2,5 @@
 
 ## Here is a picture
 
-![alt-text](./temp/kernel_idea.png)
+![alt-text](kernel_idea.png)
 
